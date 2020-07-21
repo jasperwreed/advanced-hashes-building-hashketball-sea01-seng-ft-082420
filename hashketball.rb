@@ -25,7 +25,7 @@ def game_hash
       :colors = [],
       :players = [
         {
-          :player_name => "Alan Anderson",
+          :player_name =>,
           :numbner =>,
           :shoe =>,
           :points =>,
