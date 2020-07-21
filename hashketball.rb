@@ -2,7 +2,6 @@ require 'pry'
 
 # Write your code here!
 def game_hash
-  hasketball = {
     :home => {
       :team_name = "Brooklyn Nets",
       :colors = ["Black", "White"],
@@ -125,5 +124,4 @@ def game_hash
         }
         ]
     }
-  }
 end
